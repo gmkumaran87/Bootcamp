@@ -1,4 +1,4 @@
-/*alert(`I’ m invoked!`);
+alert(`I’ m invoked!`);
 
 // This line works because of double semi-colan has inside single semicolan.
 alert("I'm JavaScript!");
@@ -71,7 +71,7 @@ let message =
     "No login" :
     "";
 
-console.log(message);*/
+console.log(message);
 
 // You cant change the value of the msg
 let message1;
